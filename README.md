@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sailesh Maharjan</h1>
 <h3 align="center">Software Developer | .NET Enthusiast | Backend-Focused Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sailesh-maharjan&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh-maharjan" />
-</p>
-
 ---
 
 ## 💡 About Me
 
 🎓 Recent graduate in **Computer Engineering**  
 💻 Passionate about clean code, backend systems, databases & scalable architecture  
-🌱 Currently sharpening skills in **.NET Core**, **Entity Framework**, and **API development**  
+🌱 Currently sharpening skills in **.NET Core**, **Entity Framework core**, and **API development**  
 📌 Interested in building high-performance enterprise-grade applications
 
 ---
@@ -26,12 +22,13 @@
 ### 🖥️ Backend & Frameworks
 - C#, ASP.NET Web Forms / MVC
 - .NET Framework (Learning .NET Core)
-- Entity Framework (Learning)
+- Entity Framework 
+- Entity Framework Core
 
 ### 🛢️ Databases
 - PostgreSQL
 - Microsoft SQL Server
-- Redis (Basic)
+- Redis 
 
 ### 🛠️ Tools & Others
 - Git & GitHub
