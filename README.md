@@ -5,35 +5,44 @@
 
 ## 💡 About Me
 
-🎓 Recent graduate in **Computer Engineering**  
-💻 Passionate about clean code, backend systems, databases & scalable architecture  
-🌱 Currently sharpening skills in **.NET Core**, **Entity Framework core**, and **API development**  
-📌 Interested in building high-performance enterprise-grade applications
+🎓 Computer Engineering degree holder with a strong foundation in software development.  
+💻 Committed to writing clean, maintainable code and designing scalable backend architectures.  
+🌐 Strong interest in server-side development, database optimization, and performance tuning.  
+🚀 Continuously enhancing my skills in the Microsoft ecosystem and modern backend engineering.
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 Tech Stack
 
-### 🌐 Web Technologies
-- HTML5, CSS3 (basic), Bootstrap
-- JavaScript, jQuery
-- Chart.js
+### 💻 Languages
+- C#
+- JavaScript
+- SQL
 
 ### 🖥️ Backend & Frameworks
-- C#, ASP.NET Web Forms / MVC
-- .NET Framework (Learning .NET Core)
-- Entity Framework 
-- Entity Framework Core
+- ASP.NET (Web Forms & MVC)
+- .NET Framework
+- .NET Core  
+- Entity Framework (EF)
+- Entity Framework Core (EF Core)
+
+### 🌐 Frontend & UI
+- HTML5, CSS3  
+- Bootstrap  
+- jQuery  
+- Chart.js
 
 ### 🛢️ Databases
-- PostgreSQL
-- Microsoft SQL Server
-- Redis 
+- PostgreSQL  
+- Microsoft SQL Server  
+- Redis  
 
-### 🛠️ Tools & Others
-- Git & GitHub
-- Visual Studio
-- RESTful API concepts
+### 🛠️ Tools & Concepts
+- Visual Studio  
+- Git & GitHub  
+- RESTful API development  
+- Razor Views  
+- Clean Architecture principles
 
 ---
 
@@ -52,35 +61,39 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sailesh-maharjan&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sailesh-maharjan&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 🚀 Areas of Focus
+
+- Clean Architecture in .NET  
+- RESTful API design with .NET Core  
+- Redis caching techniques  
+- Advanced SQL query optimization  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:maharjansailesh321@gmail.com"><img src="https://img.shields.io/badge/email-maharjansailesh321@gmail.com-red?style=flat&logo=gmail" alt="email" /></a>
-  <a href="https://instagram.com/sailesh_mhz" target="blank"><img src="https://img.shields.io/badge/Instagram-@sailesh_mhz-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:maharjansailesh321@gmail.com">
+    <img src="https://img.shields.io/badge/email-maharjansailesh321@gmail.com-red?style=flat&logo=gmail" alt="email" />
+  </a>
+  <a href="https://instagram.com/sailesh_mhz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@sailesh_mhz-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔍 Currently Exploring
+## 📌 Quote That Drives Me
 
-- 🔸 Clean Architecture in .NET
-- 🔸 Web API development
-- 🔸 PostgreSQL optimization & advanced queries
-- 🔸 Redis caching and key-value store strategies
-
----
-
-## 📌 Quote I Follow
-
-> "First, solve the problem. Then, write the code." – John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
 <p align="center">
-  🙏 Thank you for visiting my profile. I'm open to opportunities and collaborations!
+  🙏 Thanks for visiting! I'm open to new opportunities and collaborations.
 </p>
