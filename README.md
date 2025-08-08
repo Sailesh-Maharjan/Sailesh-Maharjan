@@ -14,45 +14,51 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
-- C#
-- JavaScript
-- SQL
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>💻 Languages & Frameworks</strong></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" title="C#" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" title="JavaScript" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" title="HTML5" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" title="CSS3" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" title="jQuery" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" title="Bootstrap" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" title=".NET Framework" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🛢️ Databases</strong></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" title="PostgreSQL" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" title="SQL Server" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" title="Redis" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🛠️ Tools</strong></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" title="Git" style="margin-right:10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" title="Visual Studio" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### 🖥️ Backend & Frameworks
-- ASP.NET (Web Forms & MVC)
-- .NET Framework
-- .NET Core  
-- Entity Framework (EF)
-- Entity Framework Core (EF Core)
-
-### 🌐 Frontend & UI
-- HTML5, CSS3  
-- Bootstrap  
-- jQuery  
-- Chart.js
-
-### 🛢️ Databases
-- PostgreSQL  
-- Microsoft SQL Server  
-- Redis  
-
-### 🛠️ Tools & Concepts
-- Visual Studio  
-- Git & GitHub  
-- RESTful API development  
-- Razor Views  
-- Clean Architecture principles
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sailesh-maharjan&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh-maharjan&theme=default" alt="GitHub Streak" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sailesh-maharjan&show_icons=true&theme=default" alt="GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh-maharjan&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh-maharjan&layout=compact" alt="Top Languages" />
 </p>
 
