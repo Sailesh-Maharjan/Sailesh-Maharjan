@@ -65,11 +65,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sailesh-maharjan&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
