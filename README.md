@@ -5,7 +5,7 @@
 
 ## 💡 About Me
 
-🎓 Computer Engineering degree holder with a strong foundation in software development.  
+🎓 Computer Engineer with a strong foundation in software development.  
 💻 Committed to writing clean, maintainable code and designing scalable backend architectures.  
 🌐 Strong interest in server-side development, database optimization, and performance tuning.  
 🚀 Continuously enhancing my skills in the Microsoft ecosystem and modern backend engineering.
@@ -91,12 +91,4 @@
 
 ---
 
-## 📌 Quote That Drives Me
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-<p align="center">
-  🙏 Thanks for visiting! I'm open to new opportunities and collaborations.
-</p>
