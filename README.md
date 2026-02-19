@@ -60,7 +60,7 @@
 
 <p>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=sailesh-maharjan&show_icons=true&theme=default" alt="GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh-maharjan&theme=default" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh-maharjan&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sailesh-Maharjan&layout=compact" alt="Top Languages" />
 </p>
 
 ---
