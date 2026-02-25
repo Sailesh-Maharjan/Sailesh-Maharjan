@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" title="HTML5" style="margin-right:10px;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" title="CSS3" style="margin-right:10px;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" title="jQuery" style="margin-right:10px;" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="Chart.js" width="40" title="Chart.js" style="margin-right:10px;" />
+          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="Chart.js" width="40" title="Chart.js" style="margin-right:10px;" /> -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" title="Bootstrap" style="margin-right:10px;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" title=".NET Framework" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" title=".NET Core" />
