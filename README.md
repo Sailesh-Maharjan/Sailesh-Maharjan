@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sailesh Maharjan</h1>
-<h3 align="center">Software Developer | .NET Enthusiast | Backend-Focused Engineer</h3>
+<h1 align="center">Er. Sailesh Maharjan</h1>
+<h3 align="center">.NET Developer | ASP.NET MVC | .NET Core Enthusiast</h3>
 
 ---
 
@@ -66,12 +66,6 @@
 
 ---
 
-## 🚀 Areas of Focus
-
-- Clean Architecture in .NET  
-- RESTful API design with .NET Core  
-- Redis caching techniques  
-- Advanced SQL query optimization  
 
 ---
 
