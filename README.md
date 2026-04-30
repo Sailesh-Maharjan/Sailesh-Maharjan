@@ -1,14 +1,45 @@
-<h1 align="center">Er. Sailesh Maharjan</h1>
-<h3 align="center">.NET Developer</h3>
+<div align="center">
+
+<pre>
+███████╗ █████╗ ██╗██╗     ███████╗███████╗██╗  ██╗
+██╔════╝██╔══██╗██║██║     ██╔════╝██╔════╝██║  ██║
+███████╗███████║██║██║     █████╗  ███████╗███████║
+╚════██║██╔══██║██║██║     ██╔══╝  ╚════██║██╔══██║
+███████║██║  ██║██║███████╗███████╗███████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+</pre>
+
+# Er. Sailesh Maharjan
+### .NET Developer · Backend Engineer · Systems Builder
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+scalable+.NET+backends;Crafting+clean+%26+maintainable+code;Passionate+about+performance+tuning;Exploring+the+Microsoft+ecosystem)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 💡 About Me
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-🎓 Computer Engineer with a strong foundation in software development.  
-💻 Committed to writing clean, maintainable code and designing scalable backend architectures.  
-🌐 Strong interest in server-side development, database optimization, and performance tuning.  
-🚀 Continuously enhancing my skills in the Microsoft ecosystem and modern backend engineering.
+## 👋 About Me
+
+```csharp
+var sailesh = new Developer
+{
+    Name        = "Er. Sailesh Maharjan",
+    Role        = ".NET Developer",
+    Education   = "Computer Engineer",
+    Focus       = new[] {
+        "Clean Architecture",
+        "Scalable Backends",
+        "Database Optimization",
+        "Performance Tuning"
+    },
+    CurrentlyLearning = "Advanced .NET & Cloud Architecture",
+    AskMeAbout  = new[] { "C#", ".NET", "SQL", "REST APIs" }
+};
+```
+
+<br clear="right"/>
 
 ---
 
@@ -30,7 +61,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" title="HTML5" style="margin-right:10px;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" title="CSS3" style="margin-right:10px;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" title="jQuery" style="margin-right:10px;" />
-          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="Chart.js" width="40" title="Chart.js" style="margin-right:10px;" /> -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" title="Bootstrap" style="margin-right:10px;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" title=".NET Framework" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" title=".NET Core" />
@@ -57,16 +87,6 @@
   </tbody>
 </table>
 
-
----
-
-
-
-
-
----
-
-
 ---
 
 ## 📫 Connect With Me
@@ -81,5 +101,3 @@
 </p>
 
 ---
-
-
