@@ -1,5 +1,5 @@
 <h1 align="center">Er. Sailesh Maharjan</h1>
-<h3 align="center">.NET Developer | ASP.NET MVC | .NET Core Enthusiast</h3>
+<h3 align="center">.NET Developer</h3>
 
 ---
 
